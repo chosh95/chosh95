@@ -4,17 +4,11 @@
 
 ### 안녕하세요 👋
 
-제 github에 방문해주셔서 감사합니다.
+제 github에 방문해주셔서 감사합니다. :blush:
 
 
 
-#### Back-End developer지망생
+#### Back-End developer지망생 :computer:
 
-Java & Spring framework에 대해 공부중입니다. 
-
-
-
-```
-[![chosh95's github stats](https://github-readme-stats.vercel.app/api?username=chosh95)](https://github.com/chosh95/github-readme-stats)
-```
+Java & Spring framework 개발에 관심이 있습니다. 
 
