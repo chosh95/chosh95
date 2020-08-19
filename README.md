@@ -15,6 +15,6 @@ Java & Spring framework에 대해 공부중입니다.
 
 
 ```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cho__sh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chosh95)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
