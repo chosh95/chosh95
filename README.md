@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchosh95)](https://hits.seeyoufarm.com)
 
-<!--
-**chosh95/chosh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 안녕하세요 👋
+
+제 github에 방문해주셔서 감사합니다.
+
+
+
+#### Back-End developer지망생
+
+Java & Spring framework에 대해 공부중입니다. 
+
+
+
+```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cho__sh)](https://github.com/anuraghazra/github-readme-stats)
+```
+
