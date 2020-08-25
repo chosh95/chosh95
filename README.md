@@ -20,7 +20,7 @@
 
 - Java & Spring framework 개발에 관심이 있습니다. 
 - Spring legacy와 Spring boot를 활용한 프로젝트를 각각 진행했습니다. 
-- http://www.songstagram.ml 에서 완성된 프로젝트를 이용해 볼 수 있고,  코드는 [songstagram repository](https://github.com/chosh95/Songstagram) 에서 확인해 볼 수 있습니다.
+- https://www.songstagram.ml 에서 완성된 프로젝트를 이용해 볼 수 있고,  코드는 [songstagram repository](https://github.com/chosh95/Songstagram) 에서 확인해 볼 수 있습니다.
 
 
 
