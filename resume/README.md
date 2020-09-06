@@ -41,7 +41,7 @@
 ### 1-3. 기술 스택
 
 - Front-End : HTML, CSS , Bootstrap 4 
-- Back-End : C++, Java, Spring Boot, JPA, Oracle, Mysql
+- Back-End : C++, Java, Spring Boot, JPA
 - DevOps : AWS, git, linux 
 - 영어 : 영어로 된 공식 문서나 자료를 읽고 적용하는 것에 능숙합니다. 
 
@@ -109,13 +109,14 @@ IntelliJ - Gradle
 - DB : AWS RDS MySQL
 
 - 웹 배포 : AWS Elastic BeansTalk
-- 이미지 저장 서버 : AWS S3 버킷
+- 이미지 저장 서버 : AWS S3 버킷   
 
-
+   <br>
 
 ## 3. 맺음말
 
-- 
+- 제 포트폴리오를 봐주셔서 정말 감사드립니다. 
+- 어느 팀에 소속되더라도 항상 최선을 다하는 개발자가 될 것임을 약속드립니다. 
 
 
 
